@@ -7,9 +7,9 @@
 - Fedora 30 and higher
 
 ## Download
-[**Windows**](http://www.redisant.cn/mqtt/download)
-&emsp;[**macOS**](https://gitee.com/chenjing9412/mqtt-assistant-release/releases)
-&emsp;[**Linux**](https://gitee.com/chenjing9412/mqtt-assistant-release/releases)
+[**Windows**](https://github.com/chenjing1294/mqtt-assistant-release/releases)
+&emsp;[**macOS**](https://github.com/chenjing1294/mqtt-assistant-release/releases)
+&emsp;[**Linux**](https://github.com/chenjing1294/mqtt-assistant-release/releases)
 
 
 
